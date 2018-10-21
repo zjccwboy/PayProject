@@ -1,0 +1,14 @@
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Dal.deps.json
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Dal.dll
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Dal.pdb
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Base.Common.dll
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Entities.dll
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Base.Common.pdb
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\bin\Debug\netstandard2.0\Pay.Entities.pdb
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.csprojAssemblyReference.cache
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.AssemblyInfo.cs
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.csproj.CopyComplete
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.dll
+E:\PayProject\PayProject\03-Pay.Dal\Pay.Dal\obj\Debug\netstandard2.0\Pay.Dal.pdb

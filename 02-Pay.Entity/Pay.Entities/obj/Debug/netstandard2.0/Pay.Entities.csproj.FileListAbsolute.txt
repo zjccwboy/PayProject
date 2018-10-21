@@ -6,3 +6,7 @@ E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay
 E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.AssemblyInfo.cs
 E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.dll
 E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.pdb
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.csprojAssemblyReference.cache
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\bin\Debug\netstandard2.0\Pay.Base.Common.dll
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\bin\Debug\netstandard2.0\Pay.Base.Common.pdb
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.csproj.CopyComplete

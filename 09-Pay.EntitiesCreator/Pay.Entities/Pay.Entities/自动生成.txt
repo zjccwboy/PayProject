@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=127.0.0.1;Database=PaySystem;Trusted_Connection=True;User ID=sa;Password=123456;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities

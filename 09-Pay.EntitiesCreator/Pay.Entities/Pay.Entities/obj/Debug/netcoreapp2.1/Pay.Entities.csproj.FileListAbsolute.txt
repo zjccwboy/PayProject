@@ -8,3 +8,4 @@ E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\De
 E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.AssemblyInfo.cs
 E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.dll
 E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.pdb
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.csprojAssemblyReference.cache

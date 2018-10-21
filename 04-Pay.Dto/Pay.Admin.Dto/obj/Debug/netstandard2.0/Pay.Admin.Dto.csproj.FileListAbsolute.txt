@@ -1,0 +1,8 @@
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\bin\Debug\netstandard2.0\Pay.Admin.Dto.deps.json
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\bin\Debug\netstandard2.0\Pay.Admin.Dto.dll
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\bin\Debug\netstandard2.0\Pay.Admin.Dto.pdb
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\obj\Debug\netstandard2.0\Pay.Admin.Dto.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\obj\Debug\netstandard2.0\Pay.Admin.Dto.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\obj\Debug\netstandard2.0\Pay.Admin.Dto.AssemblyInfo.cs
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\obj\Debug\netstandard2.0\Pay.Admin.Dto.dll
+E:\PayProject\PayProject\04-Pay.Dto\Pay.Admin.Dto\obj\Debug\netstandard2.0\Pay.Admin.Dto.pdb

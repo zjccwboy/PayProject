@@ -1,9 +1,0 @@
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\bin\Debug\netstandard2.0\Pay.DbContext.deps.json
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\bin\Debug\netstandard2.0\Pay.DbContext.dll
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\bin\Debug\netstandard2.0\Pay.DbContext.pdb
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.csprojAssemblyReference.cache
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.csproj.CoreCompileInputs.cache
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.AssemblyInfoInputs.cache
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.AssemblyInfo.cs
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.dll
-E:\PayProject\PayProject\03-Pay.Dal\Pay.DbContext\obj\Debug\netstandard2.0\Pay.DbContext.pdb
