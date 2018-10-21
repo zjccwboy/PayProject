@@ -1,0 +1,8 @@
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\bin\Debug\netstandard2.0\Pay.Customer.Model.deps.json
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\bin\Debug\netstandard2.0\Pay.Customer.Model.dll
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\bin\Debug\netstandard2.0\Pay.Customer.Model.pdb
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\obj\Debug\netstandard2.0\Pay.Customer.Model.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\obj\Debug\netstandard2.0\Pay.Customer.Model.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\obj\Debug\netstandard2.0\Pay.Customer.Model.AssemblyInfo.cs
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\obj\Debug\netstandard2.0\Pay.Customer.Model.dll
+E:\PayProject\PayProject\06-Pay.Model\Pay.Customer.Model\obj\Debug\netstandard2.0\Pay.Customer.Model.pdb

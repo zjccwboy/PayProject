@@ -1,0 +1,8 @@
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\bin\Debug\netstandard2.0\Pay.Entities.deps.json
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\bin\Debug\netstandard2.0\Pay.Entities.dll
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\bin\Debug\netstandard2.0\Pay.Entities.pdb
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.AssemblyInfo.cs
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.dll
+E:\PayProject\PayProject\02-Pay.Entity\Pay.Entities\obj\Debug\netstandard2.0\Pay.Entities.pdb

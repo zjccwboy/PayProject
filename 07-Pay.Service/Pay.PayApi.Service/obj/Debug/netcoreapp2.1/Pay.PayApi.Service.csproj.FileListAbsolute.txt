@@ -1,0 +1,13 @@
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\bin\Debug\netcoreapp2.1\Pay.PayApi.Service.deps.json
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\bin\Debug\netcoreapp2.1\Pay.PayApi.Service.runtimeconfig.json
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\bin\Debug\netcoreapp2.1\Pay.PayApi.Service.runtimeconfig.dev.json
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\bin\Debug\netcoreapp2.1\Pay.PayApi.Service.dll
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\bin\Debug\netcoreapp2.1\Pay.PayApi.Service.pdb
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.RazorAssemblyInfo.cache
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.RazorAssemblyInfo.cs
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.AssemblyInfo.cs
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.RazorTargetAssemblyInfo.cache
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.dll
+E:\PayProject\PayProject\07-Pay.Service\Pay.PayApi.Service\obj\Debug\netcoreapp2.1\Pay.PayApi.Service.pdb

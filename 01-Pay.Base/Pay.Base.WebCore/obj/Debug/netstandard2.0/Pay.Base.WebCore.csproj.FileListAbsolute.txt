@@ -1,0 +1,9 @@
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\bin\Debug\netstandard2.0\Pay.Base.WebCore.deps.json
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\bin\Debug\netstandard2.0\Pay.Base.WebCore.dll
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\bin\Debug\netstandard2.0\Pay.Base.WebCore.pdb
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.csprojAssemblyReference.cache
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.AssemblyInfo.cs
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.dll
+E:\PayProject\PayProject\01-Pay.Base\Pay.Base.WebCore\obj\Debug\netstandard2.0\Pay.Base.WebCore.pdb

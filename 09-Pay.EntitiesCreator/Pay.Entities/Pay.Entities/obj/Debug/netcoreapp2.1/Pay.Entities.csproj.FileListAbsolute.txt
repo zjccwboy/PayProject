@@ -1,0 +1,10 @@
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\bin\Debug\netcoreapp2.1\Pay.Entities.deps.json
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\bin\Debug\netcoreapp2.1\Pay.Entities.runtimeconfig.json
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\bin\Debug\netcoreapp2.1\Pay.Entities.runtimeconfig.dev.json
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\bin\Debug\netcoreapp2.1\Pay.Entities.dll
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\bin\Debug\netcoreapp2.1\Pay.Entities.pdb
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.AssemblyInfo.cs
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.dll
+E:\PayProject\PayProject\09-Pay.EntitiesCreator\Pay.Entities\Pay.Entities\obj\Debug\netcoreapp2.1\Pay.Entities.pdb

@@ -1,0 +1,9 @@
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\bin\Debug\netstandard2.0\Pay.Customer.Bll.deps.json
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\bin\Debug\netstandard2.0\Pay.Customer.Bll.dll
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\bin\Debug\netstandard2.0\Pay.Customer.Bll.pdb
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.csprojAssemblyReference.cache
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.AssemblyInfo.cs
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.dll
+E:\PayProject\PayProject\05-Pay.Bll\Pay.Customer.Bll\obj\Debug\netstandard2.0\Pay.Customer.Bll.pdb
