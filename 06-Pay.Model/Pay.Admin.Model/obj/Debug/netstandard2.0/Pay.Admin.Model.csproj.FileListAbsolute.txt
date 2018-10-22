@@ -6,3 +6,7 @@ E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\P
 E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\Pay.Admin.Model.AssemblyInfo.cs
 E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\Pay.Admin.Model.dll
 E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\Pay.Admin.Model.pdb
+E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\bin\Debug\netstandard2.0\Pay.Base.Common.dll
+E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\bin\Debug\netstandard2.0\Pay.Base.Common.pdb
+E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\Pay.Admin.Model.csprojAssemblyReference.cache
+E:\PayProject\PayProject\06-Pay.Model\Pay.Admin.Model\obj\Debug\netstandard2.0\Pay.Admin.Model.csproj.CopyComplete

@@ -4,4 +4,11 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\01-Pay.Base\Pay.Base.Common\Pay.Base.Common.csproj" />
+    <ProjectReference Include="..\..\02-Pay.Entity\Pay.Entities\Pay.Entities.csproj" />
+    <ProjectReference Include="..\..\03-Pay.Dal\Pay.Dal\Pay.Dal.csproj" />
+    <ProjectReference Include="..\..\04-Pay.Dto\Pay.Admin.Dto\Pay.Admin.Dto.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -25,6 +25,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Pay.Admin.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Pay.Base.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pay.Admin.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pay.Admin.Model.dll": {}
+        }
+      },
+      "Pay.Base.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Pay.Base.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pay.Base.Common.dll": {}
+        }
       }
     }
   },
@@ -168,11 +191,23 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Pay.Admin.Model/1.0.0": {
+      "type": "project",
+      "path": "../../06-Pay.Model/Pay.Admin.Model/Pay.Admin.Model.csproj",
+      "msbuildProject": "../../06-Pay.Model/Pay.Admin.Model/Pay.Admin.Model.csproj"
+    },
+    "Pay.Base.Common/1.0.0": {
+      "type": "project",
+      "path": "../../01-Pay.Base/Pay.Base.Common/Pay.Base.Common.csproj",
+      "msbuildProject": "../../01-Pay.Base/Pay.Base.Common/Pay.Base.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "Pay.Admin.Model >= 1.0.0",
+      "Pay.Base.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,7 +239,14 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\PayProject\\PayProject\\01-Pay.Base\\Pay.Base.Common\\Pay.Base.Common.csproj": {
+              "projectPath": "E:\\PayProject\\PayProject\\01-Pay.Base\\Pay.Base.Common\\Pay.Base.Common.csproj"
+            },
+            "E:\\PayProject\\PayProject\\06-Pay.Model\\Pay.Admin.Model\\Pay.Admin.Model.csproj": {
+              "projectPath": "E:\\PayProject\\PayProject\\06-Pay.Model\\Pay.Admin.Model\\Pay.Admin.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

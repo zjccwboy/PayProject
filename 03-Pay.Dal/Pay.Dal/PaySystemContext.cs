@@ -40,10 +40,10 @@ namespace Pay.Dal
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer(DbConfig.ConnectionString);
-            }
+            //if (!optionsBuilder.IsConfigured)
+            //{
+            //    optionsBuilder.UseSqlServer(DbConfig.ConnectionString);
+            //}
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

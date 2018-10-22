@@ -1,0 +1,9 @@
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\bin\Debug\netstandard2.0\Pay.PayAPI.Dto.deps.json
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\bin\Debug\netstandard2.0\Pay.PayAPI.Dto.dll
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\bin\Debug\netstandard2.0\Pay.PayAPI.Dto.pdb
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.csprojAssemblyReference.cache
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.csproj.CoreCompileInputs.cache
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.AssemblyInfoInputs.cache
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.AssemblyInfo.cs
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.dll
+E:\PayProject\PayProject\04-Pay.Dto\Pay.PayAPI.Dto\obj\Debug\netstandard2.0\Pay.PayAPI.Dto.pdb
